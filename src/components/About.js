@@ -50,7 +50,7 @@ function About() {
               <a href="https://www.linkedin.com/in/abdul-basit-832840198/" target='__blank' className="text-white me-4">
                 <i className="fab fa-linkedin"></i>
               </a>
-              <a href="https://github.com/abdulb4s1t" target='__blank' className="text-white me-4">
+              <a href="https://github.com/n00bpr0gram3r" target='__blank' className="text-white me-4">
                 <i className="fab fa-github"></i>
               </a>
             </div>
