@@ -1,6 +1,6 @@
-# NewsDose App
+# OpenVoiceNews App
 ## Use this app to read lates news
-Thanks to [Newscatcher Free News API](https://newscatcherapi.com/) Live on [Netlify](https://6359f28826902928578a1d26--comfy-syrniki-817b42.netlify.app/)
+Thanks to [Newscatcher Free News API](https://newscatcherapi.com/) Live on [Vercel](https://open-voice-news.vercel.app/)
 ## Project Setup
 `npm install`
 ## Compile it run it in production server for changes, if you want to contribute
